@@ -1,0 +1,19 @@
+
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+l
+<app/src/main/java/com/example/rickymartin/data/Characters.kt,6\a\6a8928a42705b704a3b158c5c9a1a85e174f498b
+o
+?app/src/main/java/com/example/rickymartin/network/ApiService.kt,4\0\401a93e13d3a375dec4ef369a3a9a4e00083544e
+s
+Capp/src/main/java/com/example/rickymartin/network/RetrofitClient.kt,e\6\e66b2a2d64207c1674045fb79edf098091bf65d1
+q
+Aapp/src/main/java/com/example/rickymartin/ui/screen/Characters.kt,2\d\2dd73dae6692857985586884abc30726b0c26655
+w
+Gapp/src/main/java/com/example/rickymartin/ui/viewmodel/ListViewModel.kt,e\2\e2a5d6639372fd2c82e24bdc12e27a3ae95cc591
+i
+9app/src/main/java/com/example/rickymartin/MainActivity.kt,7\e\7e29c9fd71b7bd26709d7585a3e9ce3aa920d991
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
